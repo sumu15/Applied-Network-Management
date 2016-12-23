@@ -1,0 +1,6 @@
+$host="localhost";
+$port="3306";
+$database="surendb";
+$username="root";
+$password="88888888";
+
